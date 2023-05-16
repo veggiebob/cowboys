@@ -1,4 +1,8 @@
 .idea/
+.ipynb_checkpoints/
 __pycache__/
-images/*
+data/
 test/*
+*.csv
+*.jpg
+*.tif
